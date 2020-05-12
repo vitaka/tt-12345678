@@ -4,6 +4,22 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Evaluation of Medicines for Human Use</seg>
+      </tuv>
+      <tuv lang="ES">
+        <seg>Evaluación de Medicamentos para Uso Humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The languages used in this document are:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="vmsanchez" changedate="20200512T132532Z" creationid="vmsanchez" creationdate="20200512T132524Z">
+        <seg>Los idiomas usados en este documento son:</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
